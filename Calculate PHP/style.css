@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.container {
+    margin: 100px auto;
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+}
+
+input[type="number"], select {
+    width: 95%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    width: 50%;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+select{
+    width: 50%;
+}
+
+#expretion {
+    margin-top: 20px;
+    font-size: 18px;
+    
+}
+.tt{
+    background:;
+}
+
+
